@@ -2,5 +2,6 @@
 
 **Name:** Juan P Kuganda
 
-**Student ID:** F55123061
+**Student ID:** F55123061 <br>
+
 **Kelas:** Informatika B
